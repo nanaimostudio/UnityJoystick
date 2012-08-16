@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+
+Project("{E412C605-80D1-5D82-58C9-7940D3CA85D0}") = "NewPenelope", "Assembly-CSharp-vs.csproj", "{C1968521-6733-7343-5FF6-34D5732128BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1968521-6733-7343-5FF6-34D5732128BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1968521-6733-7343-5FF6-34D5732128BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1968521-6733-7343-5FF6-34D5732128BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1968521-6733-7343-5FF6-34D5732128BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	
+EndGlobal

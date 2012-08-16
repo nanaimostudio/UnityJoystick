@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Move.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Move.cs" Line="21" Column="2" />
+      <File FileName="Assets/Scripts/AnimationController.js" Line="26" Column="50" />
+      <File FileName="Assets/Scripts/FollowTransform.js" Line="14" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
